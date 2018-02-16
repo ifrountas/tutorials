@@ -1,0 +1,14 @@
+.codec {
+  background-color: #272727;
+  border-top: solid 1px #A1A1A1;
+  border-right: solid 1px #A1A1A1;
+  border-bottom: solid 1px #A1A1A1;
+  border-left: solid 8px #A1A1A1;
+  font-family: courier new, courier;
+  color: #FFFFFF;
+  padding: 5px;
+  margin: 5px 0 5px 0;
+  line-height: 180%;
+  text-align: left;
+  overflow: hidden;
+}
