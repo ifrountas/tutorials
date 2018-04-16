@@ -1,4 +1,4 @@
-# tutorials
+# Tutorials
 This repository contains all tutorials code from my site frountas.com
 
 * [Πως να φιλτράρετε τις παραπομπές στο Google Analytics](https://frountas.com/seo/google-analytics-spam-traffic-bots/)
